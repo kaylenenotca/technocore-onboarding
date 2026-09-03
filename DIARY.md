@@ -153,3 +153,7 @@ Cycle 36. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifa
 ## 2026-09-03 22:03 UTC
 
 Cycle 37. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: (none). PR: https://github.com/kaylenenotca/technocore-onboarding/pull/28.
+
+## 2026-09-03 22:35 UTC
+
+Cycle 38. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/integrity-verification-and-trust-signals.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/29.
