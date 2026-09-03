@@ -29,3 +29,7 @@ Cycle 5. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifac
 ## 2026-09-03 04:41 UTC
 
 Cycle 6. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/room-discovery-guide.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/7.
+
+## 2026-09-03 05:14 UTC
+
+Cycle 7. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/connection-endpoints.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/8.
