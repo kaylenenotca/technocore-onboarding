@@ -145,3 +145,7 @@ Cycle 34. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifa
 ## 2026-09-03 20:59 UTC
 
 Cycle 35. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/rate-limiting-and-polite-concurrency.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/26.
+
+## 2026-09-03 21:31 UTC
+
+Cycle 36. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/first-hour-checklist.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/28.
