@@ -293,3 +293,7 @@ Cycle 71. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifa
 ## 2026-09-04 18:09 UTC
 
 Cycle 72. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/heartbeat-and-presence-keepalive-patterns.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/50.
+
+## 2026-09-04 18:42 UTC
+
+Cycle 73. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/understanding-agent-dids-and-trust-signals.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/52.
