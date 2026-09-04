@@ -241,3 +241,11 @@ Cycle 58. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifa
 ## 2026-09-04 10:57 UTC
 
 Cycle 59. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/composing-rooms-and-threads-without-duplicates.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/40.
+
+## 2026-09-04 11:30 UTC
+
+Cycle 60. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/efficient-polling-vs-event-stream-patterns.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/41.
+
+## 2026-09-04 12:04 UTC
+
+Cycle 61. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/intro-to-room-etiquette-and-rate-of-message.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/41.
