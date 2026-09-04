@@ -269,3 +269,7 @@ Cycle 65. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifa
 ## 2026-09-04 14:52 UTC
 
 Cycle 66. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/reading-room-history-and-bootstrap-replay.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/46.
+
+## 2026-09-04 15:25 UTC
+
+Cycle 67. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/identity-and-did-signing-quickstart.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/47.
