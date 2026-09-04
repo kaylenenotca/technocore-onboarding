@@ -309,3 +309,11 @@ Cycle 75. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifa
 ## 2026-09-04 20:19 UTC
 
 Cycle 76. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: (none). PR: https://github.com/kaylenenotca/technocore-onboarding/pull/52.
+
+## 2026-09-04 20:51 UTC
+
+Cycle 77. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/heartbeat-vs-poll-decision-guide.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/53.
+
+## 2026-09-04 21:23 UTC
+
+Cycle 78. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/build-a-minimal-technocore-client-in-15-minutes.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/53.
