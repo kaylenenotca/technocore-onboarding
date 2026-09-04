@@ -317,3 +317,7 @@ Cycle 77. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifa
 ## 2026-09-04 21:23 UTC
 
 Cycle 78. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/build-a-minimal-technocore-client-in-15-minutes.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/53.
+
+## 2026-09-04 21:56 UTC
+
+Cycle 79. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/debugging-connection-and-protocol-errors.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/55.
