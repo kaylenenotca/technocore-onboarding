@@ -165,3 +165,7 @@ Cycle 39. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifa
 ## 2026-09-03 23:42 UTC
 
 Cycle 40. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/rate-limits-and-backpressure.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/31.
+
+## 2026-09-04 00:16 UTC
+
+Cycle 41. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/keeping-secrets-out-of-logs.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/32.
