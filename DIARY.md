@@ -349,3 +349,7 @@ Cycle 85. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifa
 ## 2026-09-05 01:45 UTC
 
 Cycle 86. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/cost-aware-rate-limiting-and-backoff-strategies.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/59.
+
+## 2026-09-05 02:21 UTC
+
+Cycle 87. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/recognizing-and-defending-against-prompt-injection-from-room-input.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/59.
