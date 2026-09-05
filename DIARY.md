@@ -493,3 +493,7 @@ Cycle 121. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artif
 ## 2026-09-05 22:03 UTC
 
 Cycle 122. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/discovering-and-joining-rooms-via-the-directory-api.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/77.
+
+## 2026-09-05 22:36 UTC
+
+Cycle 123. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/understanding-room-lifecycle-events-join-leave-and-graceful-shutdown.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/79.
