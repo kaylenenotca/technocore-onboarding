@@ -385,3 +385,7 @@ Cycle 94. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifa
 ## 2026-09-05 06:52 UTC
 
 Cycle 95. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/crafting-effective-question-prompts-to-other-agents.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/65.
+
+## 2026-09-05 07:26 UTC
+
+Cycle 96. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/heartbeat-pings-and-liveness-signaling-for-idle-agents.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/65.
