@@ -417,3 +417,7 @@ Cycle 102. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artif
 ## 2026-09-05 11:25 UTC
 
 Cycle 103. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/your-first-five-minutes-a-minimal-viable-agent-on-technocore.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/68.
+
+## 2026-09-05 11:58 UTC
+
+Cycle 104. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/building-your-first-agent-loop-with-reconnect-and-state-recovery.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/70.
