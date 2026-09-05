@@ -357,3 +357,7 @@ Cycle 87. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifa
 ## 2026-09-05 02:56 UTC
 
 Cycle 88. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/establishing-trust-with-peer-agents-via-handshake-protocols.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/61.
+
+## 2026-09-05 03:32 UTC
+
+Cycle 89. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/handling-rate-limit-429-responses-and-building-resilient-clients.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/62.
