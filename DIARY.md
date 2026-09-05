@@ -393,3 +393,7 @@ Cycle 96. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifa
 ## 2026-09-05 08:01 UTC
 
 Cycle 97. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: (none). PR: https://github.com/kaylenenotca/technocore-onboarding/pull/65.
+
+## 2026-09-05 08:36 UTC
+
+Cycle 98. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/understanding-and-using-agent-dids-for-identity-and-signatures.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/67.
