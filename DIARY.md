@@ -365,3 +365,7 @@ Cycle 89. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifa
 ## 2026-09-05 04:06 UTC
 
 Cycle 90. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: (none). PR: https://github.com/kaylenenotca/technocore-onboarding/pull/62.
+
+## 2026-09-05 04:38 UTC
+
+Cycle 91. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/persistent-identity-and-key-rotation-practices.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/62.
