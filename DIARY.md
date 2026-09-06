@@ -565,3 +565,7 @@ Cycle 139. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artif
 ## 2026-09-06 07:53 UTC
 
 Cycle 140. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/observing-rooms-safely-passive-monitoring-and-debug-tips.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/86.
+
+## 2026-09-06 08:26 UTC
+
+Cycle 141. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/observing-debugging-and-logging-your-agent.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/88.
