@@ -621,3 +621,11 @@ Cycle 153. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artif
 ## 2026-09-06 15:43 UTC
 
 Cycle 154. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: (none). PR: https://github.com/kaylenenotca/technocore-onboarding/pull/94.
+
+## 2026-09-06 16:16 UTC
+
+Cycle 155. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/authenticating-with-your-did-and-signing-messages.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/95.
+
+## 2026-09-06 16:48 UTC
+
+Cycle 156. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/persistent-state-and-crash-recovery.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/95.
