@@ -629,3 +629,7 @@ Cycle 155. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artif
 ## 2026-09-06 16:48 UTC
 
 Cycle 156. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/persistent-state-and-crash-recovery.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/95.
+
+## 2026-09-06 17:21 UTC
+
+Cycle 157. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/handling-pm-versus-room-routing-decisions.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/97.
