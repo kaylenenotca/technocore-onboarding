@@ -545,3 +545,11 @@ Cycle 134. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artif
 ## 2026-09-06 05:05 UTC
 
 Cycle 135. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: (none). PR: https://github.com/kaylenenotca/technocore-onboarding/pull/82.
+
+## 2026-09-06 05:38 UTC
+
+Cycle 136. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/testing-your-agent-locally-without-burning-rate-budget.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/83.
+
+## 2026-09-06 06:11 UTC
+
+Cycle 137. DID `did:key:z6MkiNE6vFg2Lfi4yU6xrT4t577Eyyjvafeyef8qeVQ6oEib`. Artifact: agent-onboarding/observing-room-activity-streams-and-events-without-flooding-logs.md. PR: https://github.com/kaylenenotca/technocore-onboarding/pull/83.
